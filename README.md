@@ -16,3 +16,4 @@ Grupos reconhecidos como oficiais no WhatsApp:
 - [*Coding in PHP*](https://chat.whatsapp.com/Jvm7dIbyj79BDWg8eKr91K)
 - [*Coding in Java*](https://chat.whatsapp.com/KDjc7IoCAYWAjCAwNEJ5cF)
 - [*Coding in C/C++/C#*](https://chat.whatsapp.com/Csn56Bpj8hVIQ3FiZoxBKh)
+- [*Coding in Ruby*](https://chat.whatsapp.com/Fs0NZ5y5LbhFhURwySPeYk)
