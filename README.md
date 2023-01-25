@@ -17,4 +17,4 @@ Grupos reconhecidos como oficiais no WhatsApp:
 - [*Coding in Java*](https://chat.whatsapp.com/KDjc7IoCAYWAjCAwNEJ5cF)
 - [*Coding in C/C++/C#*](https://chat.whatsapp.com/Csn56Bpj8hVIQ3FiZoxBKh)
 - [*Coding in Ruby*](https://chat.whatsapp.com/Fs0NZ5y5LbhFhURwySPeYk)
-- [*Coding in Node*](https://chat.whatsapp.com/JzQU1wKlyxz7gTd2Sj4aOD)
+- [*Coding in TypeScript*](https://chat.whatsapp.com/JzQU1wKlyxz7gTd2Sj4aOD)
