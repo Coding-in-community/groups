@@ -3,13 +3,19 @@
         <img src="https://user-images.githubusercontent.com/50463866/133183082-28d88ed5-1c65-4922-adbc-e56d0d718f9d.png" alt="Logotipo da Coding in Community" width="250px" />
     </a>
     <br />
-    <p><i>Links para os grupos da Coding in Community em todas as plataformas que estamos presentes</i></p>
+    <p><i>Links para os grupos da Coding in Community nas plataformas digitais</i></p>
 </div>
 
 
 ## WhatsApp
 
-Grupos reconhecidos como oficiais no WhatsApp:
+Estamos no WhatsApp em forma de comunidade:
+
+- [***Comunidade Coding in Community***](https://chat.whatsapp.com/CfjgAHHFML8IYRB9GcWGUt)
+
+Nela você terá acesso a todos os nossos grupos e a atualizações sobre a comunidade.
+
+Também é possível entrar nos grupos diretamente pelos links:
 
 - [*Coding in Python*](https://chat.whatsapp.com/I4IpHC0YFPQLUcGHJeqYdF)
 - [*Coding in JavaScript*](https://chat.whatsapp.com/IUXcqbAPdJC2IuNfd7aaF5)
@@ -18,3 +24,5 @@ Grupos reconhecidos como oficiais no WhatsApp:
 - [*Coding in C/C++/C#*](https://chat.whatsapp.com/Csn56Bpj8hVIQ3FiZoxBKh)
 - [*Coding in Ruby*](https://chat.whatsapp.com/Fs0NZ5y5LbhFhURwySPeYk)
 - [*Coding in TypeScript*](https://chat.whatsapp.com/JzQU1wKlyxz7gTd2Sj4aOD)
+
+_Certifique-se de ler as [nossas regras](https://github.com/Coding-in-community/rules) para evitar banimento._
