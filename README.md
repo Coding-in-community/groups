@@ -24,5 +24,6 @@ Também é possível entrar nos grupos diretamente pelos links:
 - [*Coding in C/C++/C#*](https://chat.whatsapp.com/Csn56Bpj8hVIQ3FiZoxBKh)
 - [*Coding in Ruby*](https://chat.whatsapp.com/Fs0NZ5y5LbhFhURwySPeYk)
 - [*Coding in Godot*](https://chat.whatsapp.com/KVJbDHRTssfBKsy6zNaYnn)
+- [*Coding in Database*](https://chat.whatsapp.com/IrMOnIRh2an4ahN0gnNjET)
 
 _Certifique-se de ler as [nossas regras](https://github.com/Coding-in-community/rules) para evitar banimento._
