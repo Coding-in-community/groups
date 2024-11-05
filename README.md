@@ -23,7 +23,12 @@ Também é possível entrar nos grupos diretamente pelos links:
 - [*Coding in Java*](https://chat.whatsapp.com/KDjc7IoCAYWAjCAwNEJ5cF)
 - [*Coding in C/C++/C#*](https://chat.whatsapp.com/Csn56Bpj8hVIQ3FiZoxBKh)
 - [*Coding in Ruby*](https://chat.whatsapp.com/Fs0NZ5y5LbhFhURwySPeYk)
+- [*Coding in Rust*](https://chat.whatsapp.com/IGugIXvLnSEJi6Hs8WQWYn)
 - [*Coding in GameDev*](https://chat.whatsapp.com/KVJbDHRTssfBKsy6zNaYnn)
 - [*Coding in Database*](https://chat.whatsapp.com/IrMOnIRh2an4ahN0gnNjET)
+
+Temos, também, um grupo especial apenas para divulgação de vagas para devs:
+
+- [*Vagas - Coding in Community*](https://chat.whatsapp.com/FhrP0mSM23E6sJj1b4TwR5)
 
 _Certifique-se de ler as [nossas regras](https://github.com/Coding-in-community/rules) para evitar banimento._
