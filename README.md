@@ -18,7 +18,7 @@ Nela você terá acesso a todos os nossos grupos e a atualizações sobre a comu
 Também é possível entrar nos grupos diretamente pelos links:
 
 - [*Coding in Python*](https://chat.whatsapp.com/I4IpHC0YFPQLUcGHJeqYdF)
-- [*Coding in JavaScript*](https://chat.whatsapp.com/IUXcqbAPdJC2IuNfd7aaF5)
+- [*Coding in JavaScript*](https://chat.whatsapp.com/BUz19912VekGftXo7CeTlj)
 - [*Coding in PHP*](https://chat.whatsapp.com/Jvm7dIbyj79BDWg8eKr91K)
 - [*Coding in Java*](https://chat.whatsapp.com/KDjc7IoCAYWAjCAwNEJ5cF)
 - [*Coding in C/C++/C#*](https://chat.whatsapp.com/Csn56Bpj8hVIQ3FiZoxBKh)
