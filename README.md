@@ -11,24 +11,24 @@
 
 Estamos no WhatsApp em forma de comunidade:
 
-- [***Comunidade Coding in Community***](https://chat.whatsapp.com/CfjgAHHFML8IYRB9GcWGUt)
+- [***Comunidade Coding in Community***](https://chat.whatsapp.com/DMSbokWTwD26gl7Wr5nDLz)
 
 Nela você terá acesso a todos os nossos grupos e a atualizações sobre a comunidade.
 
 Também é possível entrar nos grupos diretamente pelos links:
 
-- [*Coding in Python*](https://chat.whatsapp.com/I4IpHC0YFPQLUcGHJeqYdF)
-- [*Coding in JavaScript*](https://chat.whatsapp.com/BUz19912VekGftXo7CeTlj)
-- [*Coding in PHP*](https://chat.whatsapp.com/Jvm7dIbyj79BDWg8eKr91K)
-- [*Coding in Java*](https://chat.whatsapp.com/KDjc7IoCAYWAjCAwNEJ5cF)
-- [*Coding in C/C++/C#*](https://chat.whatsapp.com/Csn56Bpj8hVIQ3FiZoxBKh)
-- [*Coding in Ruby*](https://chat.whatsapp.com/Fs0NZ5y5LbhFhURwySPeYk)
-- [*Coding in Rust*](https://chat.whatsapp.com/IGugIXvLnSEJi6Hs8WQWYn)
-- [*Coding in GameDev*](https://chat.whatsapp.com/KVJbDHRTssfBKsy6zNaYnn)
-- [*Coding in Database*](https://chat.whatsapp.com/IrMOnIRh2an4ahN0gnNjET)
+- [*Coding in Python*](https://chat.whatsapp.com/Chg19Te4foiEBVsH0Lp1S7)
+- [*Coding in JavaScript*](https://chat.whatsapp.com/H5sFRuP2w3W815eQZoeewL)
+- [*Coding in PHP*](https://chat.whatsapp.com/KopiVXbWhDGEoRykMhqjIE)
+- [*Coding in Java*](https://chat.whatsapp.com/HTtJd1U1KLBAHzexfGkol6)
+- [*Coding in C/C++/C#*](https://chat.whatsapp.com/DCKXhC29PmVD2CFYpSOe48)
+- [*Coding in Ruby*](https://chat.whatsapp.com/LJyxcoZjk9VLVwH1HJTMHU)
+- [*Coding in Rust*](https://chat.whatsapp.com/Dwu5b0gJb6vHUwoeXzdK1j)
+- [*Coding in GameDev*](https://chat.whatsapp.com/ByL6E2OU1fZ8lyU7SlCcbO)
+- [*Coding in Database*](https://chat.whatsapp.com/HSH3AhU7JQm4dgZZtctcTE)
 
 Temos, também, um grupo especial apenas para divulgação de vagas para devs:
 
-- [*Vagas - Coding in Community*](https://chat.whatsapp.com/FhrP0mSM23E6sJj1b4TwR5)
+- [*Vagas - Coding in Community*](https://chat.whatsapp.com/FOpZzNchr5VBkNjvYPk6Jm)
 
 _Certifique-se de ler as [nossas regras](https://github.com/Coding-in-community/rules) para evitar banimento._
