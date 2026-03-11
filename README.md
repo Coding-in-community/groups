@@ -19,12 +19,7 @@ Também é possível entrar nos grupos diretamente pelos links:
 
 - [*Coding in Python*](https://chat.whatsapp.com/Chg19Te4foiEBVsH0Lp1S7)
 - [*Coding in JavaScript*](https://chat.whatsapp.com/H5sFRuP2w3W815eQZoeewL)
-- [*Coding in Java*](https://chat.whatsapp.com/HTtJd1U1KLBAHzexfGkol6)
 - [*Coding in C/C++/C#*](https://chat.whatsapp.com/DCKXhC29PmVD2CFYpSOe48)
-- [*Coding in Ruby*](https://chat.whatsapp.com/LJyxcoZjk9VLVwH1HJTMHU)
-- [*Coding in Rust*](https://chat.whatsapp.com/Dwu5b0gJb6vHUwoeXzdK1j)
-- [*Coding in GameDev*](https://chat.whatsapp.com/ByL6E2OU1fZ8lyU7SlCcbO)
-- [*Coding in Database*](https://chat.whatsapp.com/HSH3AhU7JQm4dgZZtctcTE)
 
 Temos, também, grupos especiais apenas para divulgação de vagas para devs e Off-Topic:
 
